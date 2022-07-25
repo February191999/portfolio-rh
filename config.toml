@@ -1,6 +1,6 @@
 baseURL = 'http://february191999.github.io/portfolio-rh/'
 languageCode = 'en-us'
-title = 'Rye Hsu'
+title = "Rye Hsu"
 theme = "hugo-coder"
 defaultContentLanguage = "en"
 paginate = 20
